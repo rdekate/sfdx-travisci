@@ -10,7 +10,7 @@ private class mytest {
     }
 
      @isTest
-    static void myUnitTest() {
+    static void myUnitTest1() {
         myclass demo = new myclass();
         System.assertEquals(demo.getName(), 'Rahul');
         // Uncomment the following line to cause a build failure
